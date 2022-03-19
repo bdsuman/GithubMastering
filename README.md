@@ -4,5 +4,5 @@ Topics of Github Tutorial
 3. How to create a branch in your repository and how to merge this branch.
 4. Some Additional command- check different between two commit ID, Remove file, For reset, Back to first Stage etc.
 
-##For More Help
+## For More Help
 Suman Sen E-mail: mesuman@yahoo.com
